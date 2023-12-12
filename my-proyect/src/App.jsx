@@ -2,7 +2,7 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
- import MiBoton from './components/MiBoton'
+//  import MiBoton from './components/MiBoton'
 
  import ContadorClass from './components/ContadorClass'
 
